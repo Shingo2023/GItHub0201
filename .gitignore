@@ -1,0 +1,6 @@
+
+
+Pods/
+Sample.txt
+*.dSYM.zip
+!Pods/sample.txt
